@@ -18,6 +18,23 @@ public class Git3 {
 char Siuuu;
 System.out.println("Siuuuuuuuuuuuu");
 	}
-	
+	public void Cr4() {
+		char bicho;
+char Siuuu;
+System.out.println("Siuuuuuuuuuuuu");
+	}
+	public void autoincrement () {
+		System.out.println("versioooooooooooooooon1.10");
+	}
+	public void Cr71() {
+		char bicho;
+char Siuuu;
+System.out.println("Siuuuuuuuuuuuu");
+	}
+	public void auto () {
+		System.out.println("versioooooooooooooooon1.10");
+		String auto;
+		auto= "BMW";
+	}
 	
 }
