@@ -6,4 +6,10 @@ public class Git1 {
 		int b=1;
 		int c = a+b;
 	}
+
+	public void superpotencia() {
+		int a=2;
+		int b=1;
+		int c = a+b*b+a;
+	}
 }
