@@ -17,4 +17,10 @@ public class Git2 {
 		int c = a/b;
 
 	}
+	public void div() {
+		int a=2142;
+		int b=1122;
+		int c = a/b*12;
+
+	}
 }
