@@ -21,6 +21,12 @@ public class Git2 {
 		int a=2142;
 		int b=1122;
 		int c = a/b*12;
+		
 
+	}
+	public void superp() {
+		int a=2;
+		int b=1;
+		int c = a+b*b+a*a-b+b-b-b+b*23;
 	}
 }
