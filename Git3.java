@@ -21,5 +21,12 @@ public class Git3 {
 		
 
 	}
+
+public void siuuuu() {
+	char siuuuuu;
+char bicho;
+System.out.println("Siuuuuuu");	
+
+}
 	
 }
