@@ -13,5 +13,11 @@ public class Git3 {
 		int c = a/b;
 
 	}
+	public void Cr7() {
+		char bicho;
+char Siuuu;
+System.out.println("Siuuuuuuuuuuuu");
+	}
+	
 	
 }
